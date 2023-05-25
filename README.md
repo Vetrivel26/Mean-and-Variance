@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ~~~
-Developed By : SARVESHKARAN VK
-Reg No :212221230089
+Developed By : VETRIVEL S
+Reg No :212221240060
 ~~~
 ~~~
 import humpy as np
